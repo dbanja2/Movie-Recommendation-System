@@ -1,11 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Mar  2 11:57:32 2020
-
 @author: dbanja2
 """
-
-#author Dipendra Banjara at lsu dot edu
 ## ---(Thu Feb 27 13:03:23 2020)---
 
 import pandas as pd
